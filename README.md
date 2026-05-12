@@ -5,6 +5,7 @@ This repo hosts all useful links of databend.
 Click the button below to deploy on Vercel.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdatabendlabs%2Flink&env=GITHUB_REPOS,GITHUB_TOKEN&envDescription=Environment%20Variables%20Reference&envLink=https%3A%2F%2Fgithub.com%2Fdatabendlabs%2Flink%23environment-variables)
+[![Deploy to PandaStack](https://dashboard.pandastack.io/deploy-button.svg)](https://dashboard.pandastack.io/deploy?repo=databendlabs/link&type=static&buildCmd=npm+run+build&outputDir=dist)
 
 ## Environment Variables
 
